@@ -1,0 +1,75 @@
+{
+    "success": true,
+    "flag": "FORCE or SKIP or NORMAL or MOVE",
+    "version": 1,
+    "title": "",
+    "description": "",
+    "link": "",
+    "buttonName": "",
+    "buttonSkip": "",
+    "GoogleBannerAds": "ca-app-pub-3940256099942544/6300978111",
+    "GoogleInterAds": "ca-app-pub-3940256099942544/1033173712",
+    "GoogleNativeAds": "ca-app-pub-3940256099942544/2247696110",
+    "GoogleNative2Ads": "ca-app-pub-3940256099942544/2247696110",
+    "GoogleAppOpenAds": "ca-app-pub-3940256099942544/3419835294",
+    "GoogleAppIdAds": "ca-app-pub-3940256099942544~3347511713",
+    "Google2BannerAds": "ca-app-pub-3940256099942544/6300978111",
+    "Google2InterAds": "ca-app-pub-3940256099942544/1033173712",
+    "Google2NativeAds": "ca-app-pub-3940256099942544/2247696110",
+    "Google2Native2Ads": "ca-app-pub-3940256099942544/2247696110",
+    "Google2AppOpenAds": "ca-app-pub-3940256099942544/3419835294",
+    "Google2AppIdAds": "ca-app-pub-3940256099942544~3347511713",
+	"AppBackgroundColor": "#ffffff",
+    "WhichOneBannerNative": 1 OR 2 OR 0, (1 = Small Mini Native , 2 = Banner , 0 = Hide)
+    "WhichOneAllNative": 1 OR 0, (1 = Show , 0 = Hide)
+    "WhichOneListNative": 1 OR 0, (1 = Show , 0 = Hide)
+    "ListNativeAfterCount": 3,
+	"StaticNativeCountPerPage": 3,
+    "ExitDialogNativeOnOff": true,
+	"NativeButtonTextOnOff": true,
+    "NativeButtonText": "Open",
+	"NativeBackgroundColor": "#bcdfff",
+    "NativeTextColor": "#000000",
+    "NativeButtonBackgroundColor": "#992a2a78",
+    "NativeButtonTextColor": "#ffffff",
+    "InterIntervalCount": 3, (0 = Hide)
+    "BackInterIntervalCount": 3, (0 = Hide)
+	"ShowDialogBeforeAds": true,
+    "DialogTimeInSec": 1.5,
+    "WhichOneSplashAppOpen": 1 OR 2 OR 0, (1 = Inter , 2 = Appopen , 0 = Hide)
+    "AppOpenTime": 1 OR 2 OR 3 OR 0, (1 = One Time , 2 = Every Time, 3 = Background Hide , 0 = Hide)
+    "AdsOnOff": true,
+    "FullScreenOnOff": true,
+	"ContinueScreenOnOff": true,
+	"LetsStartScreenOnOff": true,
+	"AgeGenderScreenOnOff": true,
+	"NextScreenOnOff": true,
+	"NextInnerScreenOnOff": true,
+	"ConnectScreenOnOff": true,
+	"StartScreenOnOff": true,
+	"RealCastingOnOff": true,
+	"DialogForAppStopText": "Something..",
+	"DialogForAppStopOnOff": true,
+    "VpnOnOff": true,
+    "VpnDialog": true,
+    "VpnDialogTime": 1 OR 2, (1 = OneTime , 2 = Every Time)
+    "VpnDefaultCountry": {
+        "code": "US",
+        "name": "United States",
+        "flag": "http://139.59.5.2/VpnFlag/United-States.png"
+    },
+    "VpnListCountry": [
+        {
+            "code": "US",
+            "name": "United States",
+            "flag": "http://139.59.5.2/VpnFlag/United-States.png"
+        },
+        {
+            "code": "CA",
+            "name": "Canada",
+            "flag": "http://139.59.5.2/VpnFlag/Canada.png"
+        }
+    ],
+    "VpnUrl": "https://d1ex46a0eaqlz9.cloudfront.net",
+    "VpnCarrierId": "touchvpn"
+}
